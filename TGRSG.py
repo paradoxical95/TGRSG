@@ -1,6 +1,7 @@
 import random
 import time
 #import termcolor
+# Created by Paradoxical. Yes, I was bored and did not wanted to open my browser to find a picker wheel. So I coded this to have a random Episode/Series and enjoy watching Top Gear
 series = 1
 episode = 1
 episode_max= 10
